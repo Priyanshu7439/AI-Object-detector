@@ -364,9 +364,9 @@ This project is open source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 **Priyanshu Kumar**  
-📧 Email: [contact@example.com](mailto:contact@example.com)  
+📧 Email: priyanshukr7439@gmail.com 
 🔗 GitHub: [@Priyanshu7439](https://github.com/Priyanshu7439)  
-💼 LinkedIn: [Priyanshu Kumar](https://linkedin.com/in/priyanshu-kumar)  
+💼 LinkedIn: [[Priyanshu Kumar](https://linkedin.com/in/priyanshu-kumar)  ](https://www.linkedin.com/in/priyanshu-kumar-8a51382b4/)
 
 ---
 

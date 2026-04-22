@@ -314,14 +314,19 @@ High memory consumption and slow inference on limited resources
 ## 🎬 UI Screenshots
 
 ### Web Interface
-![UI Design](https://via.placeholder.com/600x400?text=Web+Interface+Screenshot)
+<img width="1905" height="900" alt="Screenshot 2026-04-22 103931" src="https://github.com/user-attachments/assets/68ad4756-fd33-431e-8ec9-1b02408591fe" />
+
+<img width="1130" height="214" alt="Screenshot 2026-04-22 103951" src="https://github.com/user-attachments/assets/bbf61cd8-4a78-4fc4-9139-af4cebc0a56a" />
+
+
 - Modern, clean design
 - Start/Stop buttons
 - Real-time video feed display
 - Status indicators
 
 ### Real-time Detection Output
-![Detection Output](https://via.placeholder.com/600x400?text=Detection+Example)
+<img width="1897" height="898" alt="Screenshot 2026-04-22 104943" src="https://github.com/user-attachments/assets/aac01f0f-a717-4d3a-a6a8-685ef041fe76" />
+
 - Bounding boxes for each object
 - Class labels with tracking IDs
 - Smooth tracking across frames
